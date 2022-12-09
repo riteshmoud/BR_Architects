@@ -1,5 +1,5 @@
 # BR_Architects
-A web page developed using only HTML and CSS
+A responsive web page developed using only HTML and CSS
 It is directed towards an architecture company to showcase its services and work.
 
 ## Technologies
